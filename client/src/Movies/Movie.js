@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {useParams, Route} from 'react-router-dom';
+import {useParams} from 'react-router-dom';
 import axios from 'axios';
 
 export default function Movie(props) {
